@@ -1,6 +1,6 @@
 Assignment 1: Introduction to HTML and CSS
 Student Name: Temirlan Bolat
-Group: SE-25XX
+Group: IT-2504
 
 Objective:
 Learn the structure and purpose of HTML, create a simple webpage using basic and intermediate HTML tags (formatting, images, links, lists, tables, forms), understand CSS styling, and apply CSS properties (colors, fonts, box model, layout positioning, sizing units) to publish the website online.
