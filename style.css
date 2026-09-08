@@ -1,0 +1,138 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f0f4f8;
+    color: #333333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#header-section {
+    background-color: #4a90e2;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+
+#main-heading {
+    font-size: 2.2rem;
+    margin: 0 0 10px 0;
+}
+
+#main-content {
+    width: 85%;
+    margin: 20px auto;
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #dcdcdc;
+    border-radius: 6px;
+}
+
+.card h2 {
+    color: #2c3e50;
+    margin-top: 0;
+    border-bottom: 1px solid #eeeeee;
+    padding-bottom: 5px;
+}
+
+.highlight {
+    background-color: #fff3cd;
+    color: #856404;
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #4a90e2;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #357abd;
+}
+
+.schedule-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.schedule-table th, .schedule-table td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.schedule-table th {
+    background-color: #e9ecef;
+}
+
+input[type="text"], input[type="email"] {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.float-container {
+    position: relative;
+    height: 190px;
+}
+
+.box {
+    border: 1px solid #333333;
+    padding: 10px;
+    background-color: #f8f9fa;
+}
+
+.float-left {
+    float: left;
+    width: 40%;
+}
+
+.float-right {
+    float: right;
+    width: 40%;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.relative-box {
+    position: relative;
+    top: 5px;
+    left: -5px;
+}
+
+.absolute-box {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-size: 0.85em;
+    background-color: #e2e3e5;
+}
+
+#footer-section {
+    text-align: center;
+    background-color: #343a40;
+    color: white;
+    padding: 15px;
+}
