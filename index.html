@@ -24,16 +24,81 @@
             </ol>
 
             <h2>Favorite Websites</h2>
+            <ul>
+                <li><a href="https://lms.astanait.edu.kz/mod/assign/view.php?id=73970">LMS website of AITU</a></li><br>
+                <li><a href="https://www.frontendmentor.io/challenges?sort=startedCount%7Cdesc">Learning website frontendmentor</a></li>
+            </ul>
         </div>
 
         <div class="card">
             <h2>Profile Photo</h2>
             <img src="timaa.jpeg" alt="Profile Picture" class="profile-img">
             <br>
-            <a href="https://lms.astanait.edu.kz/mod/assign/view.php?id=73970">LMS website of AITU</a>
-            <a href="https://www.frontendmentor.io/challenges?sort=startedCount%7Cdesc">Learning website frontendmentor</a>
             <button type="button" class="btn">Click Me</button>
         </div>
+
+        <div class="card">
+            <h2>Weekly Schedule</h2>
+            <table class="schedule-table">
+                <th>
+                    <tr>
+                        <th>Subject</th>
+                        <th>Day</th>
+                        <th>Time</th>
+                    </tr>
+                </th>
+                <th>
+                    <tr>
+                        <td>Web Technologies</td>
+                        <td>Monday</td>
+                        <td>09:00 - 10:30</td>
+                    </tr>
+                    <tr>
+                        <td>Data Structures</td>
+                        <td>Wednesday</td>
+                        <td>11:00 - 12:30</td>
+                    </tr>
+                    <tr>
+                        <td>Linear Algebra</td>
+                        <td>Friday</td>
+                        <td>14:00 - 15:30</td>
+                    </tr>
+                </th>
+            </table>
+        </div>
+
+        <div class="card float-container">
+            <h2>Layout Demonstration</h2>
+            <div class="box float-left">Static / Float Left</div>
+            <div class="box float-right relative-box">Relative / Float Right</div>
+            <div class="clearfix"></div>
+            <div class="box absolute-box">Absolute Box</div>
+        </div>
+
+        <p>Mood today: Good 😊 Happy 😃 Ready 🚀</p>
+
+        <div class="card">
+            <h2>Contact / Feedback Form</h2>
+            <form class="user-form">
+                <div class="form-group">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" placeholder="Enter your name" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" placeholder="Enter your email" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="favcolor">Favorite Color:</label>
+                    <input type="color" id="favcolor" name="favcolor" value="#00adb5">
+                </div>
+
+                <button type="submit" class="submit-btn">Submit</button>
+            </form>
+        </div>
     </div>
+
 </body>
 </html>
