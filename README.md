@@ -22,7 +22,7 @@ Step 8: Created a form with text input for Name, email input for Email, color pi
 Part 3. Introduction to CSS
 Step 9: Added general CSS styles to the HTML webpage. <img width="1462" height="331" alt="image" src="https://github.com/user-attachments/assets/1081d520-09f0-4e5b-9410-c529b5f922ed" />
 Step 10: Applied inline styling style="color: blue;" to a text paragraph. <img width="1454" height="283" alt="image" src="https://github.com/user-attachments/assets/eb8dbcaf-7e3a-40eb-ba83-d0bec4982f5a" />
-Step 11: Added internal CSS inside style tag in head section for page background and heading fonts.
+Step 11: Added internal CSS inside style tag in head section for page background and heading fonts. <img width="565" height="242" alt="image" src="https://github.com/user-attachments/assets/1614fb0b-d7df-4e0a-b4d8-d909fbdbff8d" />
 Step 12: Created external style.css file and linked it in HTML using link rel="stylesheet" href="style.css". <img width="1361" height="324" alt="image" src="https://github.com/user-attachments/assets/d2ecf93d-d57a-432d-8d66-fe89f7efed14" />
 Step 13: Utilized element selectors (p), class selectors (.highlight), and ID selectors (#main-heading).
 Step 14: Applied class .highlight to multiple elements and ID #main-heading to style main heading.
