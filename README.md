@@ -45,3 +45,6 @@ Step 21: Uploaded all project files to GitHub repository and published the live 
 
 Work Process Summary:
 I created a fully functional webpage using HTML5 elements such as lists, tables, forms, and media tags. After structuring the content, I styled the page using external CSS, configuring colors, fonts, box model spacing, sizing units (px, %, em, rem), float layouts, and positioning properties (relative and absolute). Finally, I pushed all codebase files to GitHub repository and published the webpage using GitHub Pages.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a50b14c2-13e9-4e08-9880-e3ad83280273" />
+<img width="1919" height="979" alt="image" src="https://github.com/user-attachments/assets/2e97cda3-05ef-426a-b1be-02f2c0471af3" />
+
